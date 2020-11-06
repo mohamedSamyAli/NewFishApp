@@ -1,0 +1,63 @@
+{key:25,name:"متابعة تغيرات صورالاقمارالصناعية"},
+{key:18,name:'استمارة بيانات البحيرات'},
+{key:19,name:'استمارة عينات البحيرات'},
+{key:20,name:'استمارة بيانات المزارع السمكية'},
+{key:21,name:'استمارة بيانات المفرخات السمكية'},
+{key:22,name:'استمارة المياه البحرية'},
+{key:23,name:'استمارة بيانات الموانئ / نقط السروح'},
+{key:14,name:'إنتاج المزارع / المفرخات'},
+{key:15,name:'تداخل المزارع / المفرخات مع البحيرات'},
+{key:16,name:'الفترة الإيجارية للمزارع السمكية'},
+{key:17,name:'تفاصيل تغيرات الحدود'},
+{key:5,name:'تعديل بيانات وصفية'},
+{key:6,name:'حذف بيانات وصفية'},
+{key:7,name:'عرض البيانات الوصفية'},
+{key:8,name:'تعديل بيانات مكانية'},
+{key:9,name:'حذف بيانات مكانية'},
+{key:10,name:'متابعة تعديل بيانات مكانية'},
+{key:11,name:'متابعة تغيرات الحدود المكانية'},
+{key:13,name:'استفسارات سابقة التعريف'},
+{key:1,name:'مسئول النظام'},
+{key:2,name:'بيانات وصفية'},
+{key:3,name:'بيانات مكانية'},
+{key:4,name:'اصدار التقارير'},
+{key:12,name:'ادخال بيانات وصفية'},
+{key:24,name:'عرض بيانات مكانية'}];
+
+
+	
+
+
+private String FQ_CODE;
+private String FQ_ID;
+private String Farm_Code;
+private String GOV_ID;
+private String GOV_NAME;
+private String G_GAFRD_ID;
+private String LAKE_NAME;
+private String LGOV_ID;
+private String MARKAZ_ID;
+private String MARKAZ_NAME;
+private String FV_OWNER;
+private String FV_N_ID;
+private String FV_FARM_NAME;
+
+
+
+ {dataIndex: 'lb_tridur', title: "زمن السرحة"}
+ {dataIndex: 'lb_tripno', title: "عدد السرحات"}
+ {dataIndex: 'lb_fishingday', title: "ايام الصيد"}
+ {dataIndex: 'lb_boat_fishermen', title: "عدد الصيادين"}
+ {dataIndex: 'lb_other_cons', title: "مصاريف اخرى"}
+ {dataIndex: 'lb_boat_cons', title: "استهلاك القارب"}
+ {dataIndex: 'lb_net_cons', title: "استهلاك الشباك"}
+ {dataIndex: 'lb_ftools_value', title: "قيمة معدات الصيد"}
+ {dataIndex: 'lb_boat_value', title: "قيمة القارب"}
+ {dataIndex: 'boat_d_name', title: "درجة المركب"}
+ {dataIndex: 'boat_material_name', title: "مادة الصنع"}
+ {dataIndex: 'fisherway_name', title: "حرفة الصيد"}
+ {dataIndex: 'ass_name', title: "الجمعية"}
+ {dataIndex: 'lb_boat_prod', title: "الانتاج"}
+ {dataIndex: 'lb_owner', title: "اسم المالك"}
+ {dataIndex: 'boat_id', title: "كود المركب"}
+ {dataIndex: 'lbv_date', title: "تاريخ الزيارة"}

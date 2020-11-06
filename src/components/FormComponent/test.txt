@@ -1,0 +1,60 @@
+new PermissionsTerm
+            {
+               Id = 18, Name = 'استمارة بيانات البحيرات' },
+    new PermissionsTerm
+            {
+               Id = 19, Name = 'استمارة عينات البحيرات' },
+    new PermissionsTerm
+            {
+               Id = 20, Name = 'استمارة بيانات المزارع السمكية' },
+    new PermissionsTerm
+            {
+               Id = 21, Name = 'استمارة بيانات المفرخات السمكية' },
+    new PermissionsTerm
+            {
+               Id = 22, Name = 'استمارة المياه البحرية' },
+    new PermissionsTerm
+            {
+               Id = 23, Name = 'استمارة بيانات الموانئ / نقط السروح' },
+    new PermissionsTerm
+            {
+               Id = 5, Name = 'تعديل بيانات وصفية' },
+    new PermissionsTerm
+            {
+               Id = 6, Name = 'حذف بيانات وصفية' },
+    new PermissionsTerm
+            {
+               Id = 7, Name = 'عرض البيانات الوصفية' },
+    new PermissionsTerm
+            {
+               Id = 12, Name = 'ادخال بيانات وصفية' }
+    new PermissionsTerm
+            {
+               Id = 8, Name = 'تعديل بيانات مكانية' },
+    new PermissionsTerm
+            {
+               Id = 9, Name = 'حذف بيانات مكانية' },
+    new PermissionsTerm
+            {
+               Id = 10, Name = 'متابعة تعديل بيانات مكانية' },
+    new PermissionsTerm
+            {
+               Id = 11, Name = 'متابعة تغيرات الحدود المكانية' },
+    new PermissionsTerm
+            {
+               Id = 24, Name = 'عرض بيانات مكانية' },
+    new PermissionsTerm
+            {
+               Id = 25, Name = "متابعة تغيرات صورالاقمارالصناعية" },
+    new PermissionsTerm
+            {
+               Id = 14, Name = 'إنتاج المزارع / المفرخات'},
+    new PermissionsTerm
+            {
+               Id = 15,Name = 'تداخل المزارع / المفرخات مع البحيرات'},
+    new PermissionsTerm
+            {
+               Id = 16,Name = 'الفترة الإيجارية للمزارع السمكية'},
+    new PermissionsTerm
+            {
+               Id = 17,Name = 'تفاصيل تغيرات الحدود'},
